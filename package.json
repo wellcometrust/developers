@@ -1,0 +1,13 @@
+{
+  "name": "@weco/groups",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^8.1.1-canary.51",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.3.1"
+  }
+}
